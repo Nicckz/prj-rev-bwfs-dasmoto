@@ -1,0 +1,31 @@
+.companys {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+.etopic {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.topic1 {
+  background-color: mediumspringgreen;
+}
+.topic2 {
+  background-color: lightcoral;
+}
+.topic3 {
+  background-color: skyblue;
+}
+.blue {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+html {
+  font-family: Helvetica;
+}
